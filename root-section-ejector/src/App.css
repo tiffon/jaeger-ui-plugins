@@ -1,0 +1,28 @@
+.RootSectionEjector--App {
+  text-align: center;
+}
+
+.RootSectionEjector--App-logo {
+  animation: RootSectionEjector--App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.RootSectionEjector--App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+}
+
+.RootSectionEjector--App-title {
+  color: white;
+  font-size: 1.5em;
+}
+
+.RootSectionEjector--App-intro {
+  font-size: large;
+}
+
+@keyframes RootSectionEjector--App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
